@@ -1,4 +1,4 @@
-const CACHE = 'ral-electric-v3';
+const CACHE = 'ral-electric-v4';
 const FILES = [
   '/Ral-electric/',
   '/Ral-electric/index.html',
